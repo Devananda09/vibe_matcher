@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.venv/
+.ipynb_checkpoints
+.vscode/
+*.pyc
+.DS_Store
+# Data/models
+data/
+models/
+# Env files
+.env
+.env.*
